@@ -1,0 +1,13 @@
+# SSH-Schlüssel (niemals pushen!)
+*.pem
+*.key
+.ssh/
+
+# Temporäre und Backup-Dateien
+*.swp
+*.bak
+*.tmp
+
+# Log-Dateien
+*.log
+
