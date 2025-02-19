@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # 1️⃣ Repository klonen
 git clone <repo-url>
 cd ansible-debian-setup
